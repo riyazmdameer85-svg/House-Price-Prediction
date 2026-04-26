@@ -1,2 +1,8 @@
-# House-Price-Prediction
-I have done this project for practice purpose and got good amount of experience in this.Came to know more about how to do these types of projects more effectively.If I get a chance to work in real time projects i will be more perfect.
+🏠 House Price Prediction
+
+Enter area (sq ft): 1500
+Enter bedrooms: 3
+Enter bathrooms: 2
+
+📊 Result:
+Predicted Price: 75.0 Lakhs
